@@ -1,2 +1,2 @@
 # Neural-Network-Project-
-I created a neural network using a dataset used by Goldman Sachs. 
+I built a neural network from scratch using Java.
